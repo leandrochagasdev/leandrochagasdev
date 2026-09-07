@@ -58,8 +58,9 @@ const Leandro = {
 ### ⚡ Tech Stack
 
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode,windows](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode,windows)" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,mysql,supabase,git,github,figma,vscode,docker&perline=8" />
 </div>
+<br/>
 
 ### 🚀 Featured Projects
 
