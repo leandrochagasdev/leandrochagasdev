@@ -1,6 +1,10 @@
 <div align="center">
-  <h1>LEANDRO CHAGAS</h1>
+  <!-- Fundo animado com o seu nome fixo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=LEANDRO%20CHAGAS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
+  <br/><br/>
+
+  <!-- Efeito de digitação roxo (subtítulo) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=PYTHON+AUTOMATION+%7C+SOFTWARE+DEVELOPMENT;SYSTEM+BOOTING...;WELCOME+TO+MY+CODE+UNIVERSE" alt="Typing SVG" />
   </a>
